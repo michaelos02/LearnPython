@@ -11,3 +11,5 @@ Click the green button `< > Code` at the top-right of this page. Then, click `Do
 ## Notebook licenses:
 - Code: GNU-GPL v.3
 - Narrative: CC BY-NC-SA
+
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaelos02/LearnPython.git/HEAD)
